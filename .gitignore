@@ -194,3 +194,6 @@ pyllmd_tune/
 
 # don't ignore the miniwob_tasks_all.csv file
 !miniwob_tasks_all.csv
+
+# dump - @nid989
+error_logs.md
