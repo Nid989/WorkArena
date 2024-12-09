@@ -191,6 +191,7 @@ results/
 ICML_deadline/
 mass_utils/
 pyllmd_tune/
+!run_results/**/*.log  
 
 # don't ignore the miniwob_tasks_all.csv file
 !miniwob_tasks_all.csv
